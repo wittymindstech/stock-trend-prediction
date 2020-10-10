@@ -1,7 +1,9 @@
 # stock-trend-prediction
 use the twitter bag of words i.e #APPL and use it to learn the stock trends ( from yahoo and financial data). Based on the learnt model predict the stock trends from the twitter data using pandas, tensorflow
+
 How it works?
 Step 1. Collect historical tweets about companies using twitter API based on hashtag. Ex #Apple
+
 Step 2. Calculate the scores if its negative or positive using sentimental analysis for each tweet
 Step 3. Train the model using the tweets score for the day and stock price on that partcular day. Tweets score will be independent variable & Stock price will be dependent.
 Step 4. Predict and test the accuracy of each model.
