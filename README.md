@@ -7,7 +7,7 @@ Step 1. Collect historical tweets about companies using twitter API based on has
 
 Step 2. Calculate the scores if its negative or positive using sentimental analysis for each tweet
 
-Step 3. Train the model using the tweets score for the day and stock price on that partcular day. Tweets score will be independent variable & Stock price will be dependent.
+Step 3. Train the model using the tweets score for the day and stock price on that particular day. Tweets score will be independent variable & Stock price will be dependent.
 
 Step 4. Predict and test the accuracy of each model.
 
