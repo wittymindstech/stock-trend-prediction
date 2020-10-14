@@ -12,6 +12,7 @@ Step 1. We collect tweets using the twitter API  based on APPl hashtag for a wee
 Step 2. Get stock data for the week.
 Step 3. Tain the model and predict
 
+
 Result : As the data is too little to predict anything we couldn't get proper results. We coudn't collect more data due to the limitations of twitter API.
 Part 2:
 Step 1. We found a prepared dataset of Apple stock prices with tweets.
